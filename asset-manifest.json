@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/caratulas-ucsp/static/js/main.7790a9f9.chunk.js",
-    "main.js.map": "/caratulas-ucsp/static/js/main.7790a9f9.chunk.js.map",
+    "main.js": "/caratulas-ucsp/static/js/main.ed7c8ff2.chunk.js",
+    "main.js.map": "/caratulas-ucsp/static/js/main.ed7c8ff2.chunk.js.map",
     "runtime-main.js": "/caratulas-ucsp/static/js/runtime-main.1f545457.js",
     "runtime-main.js.map": "/caratulas-ucsp/static/js/runtime-main.1f545457.js.map",
-    "static/js/2.a7fe8160.chunk.js": "/caratulas-ucsp/static/js/2.a7fe8160.chunk.js",
-    "static/js/2.a7fe8160.chunk.js.map": "/caratulas-ucsp/static/js/2.a7fe8160.chunk.js.map",
+    "static/js/2.2a701ea4.chunk.js": "/caratulas-ucsp/static/js/2.2a701ea4.chunk.js",
+    "static/js/2.2a701ea4.chunk.js.map": "/caratulas-ucsp/static/js/2.2a701ea4.chunk.js.map",
     "index.html": "/caratulas-ucsp/index.html",
-    "precache-manifest.e679462f67d264180c41dee375dddea3.js": "/caratulas-ucsp/precache-manifest.e679462f67d264180c41dee375dddea3.js",
+    "precache-manifest.45c8ce2b515fe1bf26d3183bda53e699.js": "/caratulas-ucsp/precache-manifest.45c8ce2b515fe1bf26d3183bda53e699.js",
     "service-worker.js": "/caratulas-ucsp/service-worker.js",
-    "static/js/2.a7fe8160.chunk.js.LICENSE.txt": "/caratulas-ucsp/static/js/2.a7fe8160.chunk.js.LICENSE.txt"
+    "static/js/2.2a701ea4.chunk.js.LICENSE.txt": "/caratulas-ucsp/static/js/2.2a701ea4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1f545457.js",
-    "static/js/2.a7fe8160.chunk.js",
-    "static/js/main.7790a9f9.chunk.js"
+    "static/js/2.2a701ea4.chunk.js",
+    "static/js/main.ed7c8ff2.chunk.js"
   ]
 }
