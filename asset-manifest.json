@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/caratulas-ucsp/static/js/main.4825986a.chunk.js",
-    "main.js.map": "/caratulas-ucsp/static/js/main.4825986a.chunk.js.map",
+    "main.js": "/caratulas-ucsp/static/js/main.42fdeb14.chunk.js",
+    "main.js.map": "/caratulas-ucsp/static/js/main.42fdeb14.chunk.js.map",
     "runtime-main.js": "/caratulas-ucsp/static/js/runtime-main.1f545457.js",
     "runtime-main.js.map": "/caratulas-ucsp/static/js/runtime-main.1f545457.js.map",
     "static/js/2.3653876c.chunk.js": "/caratulas-ucsp/static/js/2.3653876c.chunk.js",
     "static/js/2.3653876c.chunk.js.map": "/caratulas-ucsp/static/js/2.3653876c.chunk.js.map",
     "index.html": "/caratulas-ucsp/index.html",
-    "precache-manifest.520e9f9d3d7c0c31f2674a4210c8c507.js": "/caratulas-ucsp/precache-manifest.520e9f9d3d7c0c31f2674a4210c8c507.js",
+    "precache-manifest.4ababe9b9b44dd56fa79ecef23a2e99d.js": "/caratulas-ucsp/precache-manifest.4ababe9b9b44dd56fa79ecef23a2e99d.js",
     "service-worker.js": "/caratulas-ucsp/service-worker.js",
     "static/js/2.3653876c.chunk.js.LICENSE.txt": "/caratulas-ucsp/static/js/2.3653876c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1f545457.js",
     "static/js/2.3653876c.chunk.js",
-    "static/js/main.4825986a.chunk.js"
+    "static/js/main.42fdeb14.chunk.js"
   ]
 }
