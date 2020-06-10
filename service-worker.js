@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/caratulas-ucsp/precache-manifest.afa2459ed458226b0897fd91b5c2820d.js"
+  "/caratulas-ucsp/precache-manifest.725cdd628a77a222578ac171040ccbf4.js"
 );
 
 self.addEventListener('message', (event) => {
